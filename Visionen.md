@@ -1,10 +1,10 @@
-*Visionen*
+* Visionen
 
-**Den Glade Piraten**
+** Den Glade Piraten
 
 Båtklubben "Den Glade Piraten" har vuxit, och detta har medfört problem för ledningen och medlemmarna.
 
-***Problem***
+*** Problem
 
 *Medlemmar har svårt att hålla reda på tider för möten och andra datum.
 *Uppdatering av medlemsregister är problematiskt.
@@ -12,22 +12,22 @@ Båtklubben "Den Glade Piraten" har vuxit, och detta har medfört problem för l
 *Administrering av inbetalda medlemsavgifter.
 
 
-***Användargrupper***
+*** Användargrupper
 
 Applikationen kommer utvecklas för klubben och dess medlemmar.
 
-***Intressenter***
+*** Intressenter
 
 *Administration
 *Medlemmar
 *Säkerhetstänst
 *Nationella båtregistret
 
-***Liknande system***
+*** Liknande system
 
 
 
-***Baskrav***
+*** Baskrav
 
 En applikation för hantering av registrerade medlemmar och dess båtar. Denna applikation
 ska också vara till hjälp vid utdelning av båtplatser, genom att kontrollera registrerade båtar genom nationella båtregistret.
